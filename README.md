@@ -6,7 +6,6 @@
       <I>Email</i>:  p.jutipong13@gmail.com<br>
       <I>Tel</i>: Tell you later😘     
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 Jpuntul/Jpuntul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
