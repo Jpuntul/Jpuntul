@@ -1,6 +1,5 @@
 - 👋 Hi, I’m <b>Jutipong</b>.
-- 🤖 I’m passionate about **Artificial Intelligence** and **Machine Learning**.  
-- ☁️ I also explore **Cloud Computing** and **Backend Development**.  
+- 👀 I’m interested in **Machine Learning** and **Cloud Computing**. 
 - 🌱 I’m currently studying Software Engineering.
 - 📫 How to reach me:<br>
       <I>Email</i>:  p.jutipong13@gmail.com<br>   
