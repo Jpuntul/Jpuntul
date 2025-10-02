@@ -1,10 +1,9 @@
 - 👋 Hi, I’m <b>Jutipong</b>.
-- 👀 I’m interested in Web Development and Cloud computing.
+- 🤖 I’m passionate about **Artificial Intelligence** and **Machine Learning**.  
+- ☁️ I also explore **Cloud Computing** and **Backend Development**.  
 - 🌱 I’m currently studying Software Engineering.
-- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me:<br>
       <I>Email</i>:  p.jutipong13@gmail.com<br>   
-- 😄 Pronouns: he/him
 
 <!---
 Jpuntul/Jpuntul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
